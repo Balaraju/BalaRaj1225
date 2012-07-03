@@ -1,1 +1,24 @@
-print "hii"
+1.make collobrator
+2.open the repository
+3.make a dir in the sys with the same name of the repository
+4.then change the directory of the newly created dircty
+5.steps:-
+
+mkdir name
+cd name
+ls
+git init
+git remote add origin git@github.com: "username"/"repositoryname".git
+git pull origin master
+ls
+gedit "name"
+save it
+git init
+git add "name"
+git status
+git commit -a -m "comments"
+git push origin master
+refresh the web site and see changes
+
+                      thanks 
+                            pavan
